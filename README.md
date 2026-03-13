@@ -1,50 +1,117 @@
-# Business Performance Dashboard | Power BI
+# 📊 Business Performance Dashboard
 
-## Overview
+<p align="center">
+Interactive dashboard to analyze business performance, sales trends, and key performance indicators (KPIs).
+</p>
 
-This project presents an interactive Business Performance Dashboard built using Power BI to analyze sales data across regions, products, and customer segments.
-The dashboard provides key insights into revenue, profit, profit margins, and sales trends to support business decision-making.
+<p align="center">
+<img src="images/dashboard.png" width="900"/>
+</p>
 
-## Objectives
+---
 
-* Analyze overall business performance using sales data.
-* Identify top-performing regions and product categories.
-* Understand revenue distribution across customer segments.
-* Track monthly revenue trends to detect patterns and spikes.
+## 📌 Project Overview
 
-## Tools & Technologies
+This project presents an **interactive Business Performance Dashboard** built using **Power BI** to help analyze business data and monitor key performance metrics such as revenue, profit, and orders.
 
-* Power BI – Data visualization and dashboard development
-* SQL – Data extraction and querying
-* Excel – Data preprocessing and dataset preparation
-* DAX – Calculations and KPI metrics
+The dashboard allows users to explore business performance through dynamic visualizations and interactive filters, helping identify trends and insights for better decision-making.
 
-## Key Features
+---
 
-* KPI cards showing Total Revenue, Total Profit, Profit Margin, and Top Performing Region
-* Interactive slicers for Region and Product Category
-* Revenue and Profit comparison across regions
-* Profit contribution by product category
-* Customer segment revenue distribution
-* Revenue trend analysis over time
-* Insight annotations highlighting key business findings
+## 🎯 Problem Statement
 
-## Dashboard Insights
+Businesses generate large volumes of data but often lack intuitive tools to quickly understand their performance.
 
-* South region generates the highest revenue and profit.
-* Electronics category contributes the highest profit.
-* Corporate customers generate the largest revenue share.
-* Revenue trends show fluctuations with noticeable spikes mid-year.
+This dashboard was created to:
 
-## Project Structure
+• Track **revenue, profit, and order metrics**
+• Identify **top-performing regions and product categories**
+• Monitor **sales trends over time**
+• Provide **interactive data exploration** for business insights
 
-```
-powerbi-business-dashboard
+---
+
+## 🛠 Tech Stack
+
+• **Power BI** – Dashboard development and data visualization
+• **Excel / CSV Dataset** – Data source
+• **Data Visualization Techniques** – Charts, KPI cards, filters, and slicers
+
+---
+
+## 📊 Dashboard Features
+
+✔ KPI cards displaying **Total Sales, Profit, and Orders**
+
+✔ **Sales Trend Analysis** across time
+
+✔ **Regional Sales Performance**
+
+✔ **Product Category Analysis**
+
+✔ **Interactive Filters & Slicers** for dynamic data exploration
+
+✔ Clear and intuitive **business intelligence visualizations**
+
+---
+
+## 🔍 Key Insights
+
+• Identified **regions contributing the highest revenue**
+
+• Observed **sales trends and seasonal patterns**
+
+• Highlighted **product categories with higher profitability**
+
+• Compared **sales performance across different segments**
+
+---
+
+## 📂 Repository Structure
+
+Business-Performance-Dashboard
 │
-├── global-sales-dashboard.pbix
-├── sales_data.csv
-├── sales_data.sql
-├── sql_sales_data.xlsx
-├── dashboard_preview.png
-└── README.
-```
+├── images
+│   └── dashboard.png
+│
+├── dataset
+│   └── business_data.csv
+│
+└── README.md
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repository
+
+git clone https://github.com/vennuvadthya/Business-Performance-Dashboard
+
+2. Open the **Power BI (.pbix)** file using **Power BI Desktop**
+
+3. Interact with filters and visualizations to explore business insights
+
+---
+
+## 📈 Business Impact
+
+This dashboard helps organizations:
+
+• Monitor **key performance indicators** effectively
+• Gain **clear visibility into sales performance**
+• Make **data-driven business decisions**
+
+---
+
+## 👤 Author
+
+**Vennela**
+
+Final Year Mechanical Engineering Student – IIT Dhanbad
+Aspiring **Data Analyst**
+
+Skills: **SQL • Power BI • Excel • Data Visualization**
+
+---
+
+⭐ If you found this project useful, feel free to **star the repository**.
