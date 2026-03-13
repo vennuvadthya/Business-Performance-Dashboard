@@ -107,11 +107,7 @@ This dashboard helps organizations:
 
 **Vennela**
 
-Final Year Mechanical Engineering Student – IIT Dhanbad
 Aspiring **Data Analyst**
+2025 IIT(ISM) Dhanbad grad
 
 Skills: **SQL • Power BI • Excel • Data Visualization**
-
----
-
-⭐ If you found this project useful, feel free to **star the repository**.
