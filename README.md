@@ -1,4 +1,4 @@
-# 📊 Business Performance Dashboard
+# 📊 Business Performance Dashboard-Power BI | Data Analytics | Business Intelligence
 
 <p align="center">
 Interactive dashboard to analyze business performance, sales trends, and key performance indicators (KPIs).
